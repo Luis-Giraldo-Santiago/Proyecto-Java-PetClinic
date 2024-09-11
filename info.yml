@@ -1,0 +1,28 @@
+project:
+  name: "PSG2-2324-G3-33 Petclinic"
+  owner: "L3"
+  teamId: "33"
+  identities:
+    github:
+      url: "https://github.com/gii-is-psg2/psg2-2324-psg2-2324-g3-33"
+  members:
+    member1:
+      name: "Diego"
+      surname: "Manzanos"
+      githubUsername: "diemanane"
+    member2:
+      name: "Luis"
+      surname: "Giraldo"
+      githubUsername: "Luis-Giraldo-Santiago3"
+    member3:
+      name: "Alejandro"
+      surname: "Sevillano"
+      githubUsername: "alesevbar"
+    member4:
+      name: "Alejandro"
+      surname: "Vargas"
+      githubUsername: "alevarmun1"
+    member5:
+      name: "Alberto"
+      surname: "Escobar"
+      githubUsername: "Albertoescobarsanchez"
